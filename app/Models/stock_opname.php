@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class stock_opname extends Model
+class Stock_opname extends Model
 {
     use HasFactory;
 }

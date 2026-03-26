@@ -5,7 +5,7 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class warehouse_type extends Model
+class Warehouse_type extends Model
 {
     use HasFactory;
 }
